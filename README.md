@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Flutter
+- 🤔 I’m looking for help with learning to code distributed systems
+
+
 <!--
 **Stvdputten/Stvdputten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
