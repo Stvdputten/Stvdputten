@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on exploring the Cloud Native landscape
 - 🤔 I’m looking for help with learning to code distributed systems
 
 
