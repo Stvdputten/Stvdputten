@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter
-- 🔭 I’m currently working on exploring the Cloud Native landscape
-- 🤔 I’m looking for help with learning to code distributed systems
-
+- 🌱 I’m currently learning Microservices and Kubernetes
+- 🔭 I’m currently working on exploring the Cloud Native landscape for my Thesis!
 
 <!--
 **Stvdputten/Stvdputten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning Flutter
+- 🤔 I’m looking for help with learning to code distributed systems
+- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
