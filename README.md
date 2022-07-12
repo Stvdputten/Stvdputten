@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Microservices and Kubernetes
-- 🔭 I’m currently working on exploring the Cloud Native landscape for my Thesis!
+- 🔭 I’m currently working on exploring the Cloud Native landscape!
 
 <!--
 **Stvdputten/Stvdputten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
