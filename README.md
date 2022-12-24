@@ -21,7 +21,7 @@ As part of my learning journey, I am currently focusing on Azure and cloud nativ
 
 ## Contact Me
 
-Feel free to connect with me on LinkedIn or send me an [email](stephan.vd.putten@gmail.com) if you have any questions or would like to collaborate on a project. I am always open to discussing new opportunities and learning from others in the industry.
+Feel free to connect with me on LinkedIn or send me an email:to stephan.vd.putten@gmail.com if you have any questions or would like to collaborate on a project. I am always open to discussing new opportunities and learning from others in the industry.
 <!--
 **Stvdputten/Stvdputten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
