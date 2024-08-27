@@ -7,7 +7,6 @@ I am a Cloud Engineer at my current job and cloud enthusiast currently exploring
 - Proficient in languages such as Python, Go and C#
 - Experience with cloud computing platforms, primarily Azure but also AWS and GCP
 - Strong understanding of software development principles and methodologies, including agile and DevOps
-- Strong 
 - Familiar with containerization and orchestration technologies such as Docker and Kubernetes
 - Az-900, Az-104, more will follow 😄.
 
